@@ -21,8 +21,8 @@ pip install opencv-python pyzbar
 ## Usage
 - Clone the repository:
 ```bash
-git clone https://github.com/yourusername/WiFi-QR-Decoder.git
-cd WiFi-QR-Decoder
+git clone https://github.com/Kaoutherbo/QR_Code_Decoder.git
+cd QR_Code_Decoder
 ```
 Place the QR code image file in the same directory, or specify its path in the script.
 
